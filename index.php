@@ -28,5 +28,5 @@
     </form>
     <!-- Reset the page -->
     <a href="index.php">Reset</a>
-    </body>
+</body>
 </html>
