@@ -15,8 +15,8 @@
         <button type="submit">Add</button>
       </form>
 
-      <!-- Divizion Form -->
-      <h3>Divizion</h3>
+      <!-- Division Form -->
+      <h3>Division</h3>
       <!-- Link addition to php related file -->
        <form action="division.php" method="get">
         Numerator: <input type="number" name="div_num">
